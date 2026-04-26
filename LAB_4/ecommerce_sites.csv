@@ -1,0 +1,13 @@
+﻿site_id,site_name,product_type,platform,region,conversion_rate,avg_order_value,revenue_per_visitor,retention_rate,availability,seo_visibility,bounce_rate,page_load_time,cart_abandonment,customer_complaints,return_rate,support_response_time,checkout_steps,cost_per_order,error_rate,ad_cost_per_conversion
+S01,MarketPro,electronics,custom,Ukraine,3.8,94,3.57,42,99.92,78,39,2.4,61,18,7.2,3.5,5,4.8,0.55,8.5
+S02,ShopNova,clothes,shopify,Poland,4.6,58,2.67,49,99.96,84,33,1.9,54,14,6.1,2.1,4,3.9,0.38,6.9
+S03,BuyLine,electronics,magento,Germany,3.2,112,3.58,37,99.80,72,44,3.1,68,24,8.5,4.0,6,5.6,0.76,10.2
+S04,StyleCart,clothes,woocommerce,Ukraine,4.1,63,2.58,44,99.88,69,36,2.2,57,16,5.9,2.8,5,4.2,0.47,7.4
+S05,TechMall,electronics,custom,Poland,5.0,121,6.05,55,99.98,91,29,1.6,48,10,4.8,1.7,3,3.5,0.28,5.8
+S06,HomeStore,home_goods,magento,Ukraine,3.5,76,2.66,39,99.70,64,46,3.5,70,28,9.2,4.6,6,6.3,0.92,11.5
+S07,DailyMarket,food,shopify,Germany,4.8,42,2.02,52,99.95,88,31,1.8,51,13,4.2,2.0,4,3.2,0.35,6.2
+S08,MegaBuy,electronics,woocommerce,Poland,3.0,98,2.94,34,99.60,61,49,3.8,74,31,10.4,5.2,7,7.1,1.10,12.7
+S09,FashionHub,clothes,custom,Ukraine,4.4,69,3.04,47,99.91,82,34,2.0,55,15,6.4,2.5,4,4.1,0.44,7.0
+S10,EcoShop,home_goods,shopify,Germany,4.9,81,3.97,53,99.97,86,28,1.7,49,11,4.9,1.9,3,3.4,0.31,5.9
+S11,SmartCart,food,woocommerce,Ukraine,3.7,39,1.44,40,99.82,66,41,2.9,63,22,7.5,3.7,5,5.3,0.68,9.6
+S12,RetailMax,home_goods,custom,Poland,4.2,88,3.70,46,99.90,80,35,2.3,58,17,6.6,2.9,5,4.5,0.50,7.8
