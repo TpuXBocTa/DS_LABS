@@ -1,0 +1,5 @@
+﻿Status,Records,Quantity,Amount,ExpectedAmount
+declined,3,4,200000,0.0
+pending,4,7,105000,42000.0
+presented,6,7,100000,60000.0
+won,4,12,781000,781000.0

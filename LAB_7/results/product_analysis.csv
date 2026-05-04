@@ -1,0 +1,5 @@
+﻿Product,Records,Quantity,Amount,ExpectedAmount
+CPU,9,17,1100000,828000.0
+Maintenance,4,8,46000,31000.0
+Monitor,1,2,10000,6000.0
+Software,3,3,30000,18000.0
